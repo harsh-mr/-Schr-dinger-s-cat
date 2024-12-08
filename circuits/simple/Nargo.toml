@@ -1,0 +1,9 @@
+
+[package]
+name = "simple"
+type = "bin"
+authors = ["0.4"]
+compiler_version = "0.36.0"
+
+[dependencies]
+            

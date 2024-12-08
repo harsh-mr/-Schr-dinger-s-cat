@@ -1,0 +1,8 @@
+[package]
+name = "average_dot_products"
+type = "bin"
+authors = [""]
+compiler_version = "0.36.0"
+
+[dependencies]
+            

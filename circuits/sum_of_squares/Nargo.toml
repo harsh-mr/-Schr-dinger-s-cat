@@ -1,0 +1,9 @@
+
+[package]
+name = "sum_of_squares"
+type = "bin"
+authors = [""]
+compiler_version = "0.36.0"
+
+[dependencies]
+            
